@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TheBuffzie
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Web and App Development
+- 🌱 I’m currently learning node.js
