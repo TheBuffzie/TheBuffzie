@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TheBuffzie
 - 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning the world's most idiotic language, aka Java
